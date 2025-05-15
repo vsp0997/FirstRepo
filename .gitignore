@@ -1,0 +1,4 @@
+git ignroe
+
+  *.xcuserstate
+.DS_Store
